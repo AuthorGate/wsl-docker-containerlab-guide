@@ -1,7 +1,6 @@
 # Proxmox VE 24/7 Home Server Guide
 
 **Prepared by: izzaldeen mansour**  
-**إعداد: izzaldeen mansour**
 
 هذا الملف يشرح فكرة استخدام **Proxmox VE** كمنصة تشغيل دائمة 24/7 على جهاز مستقل، مثل كمبيوتر قديم في البيت أو هارد/SSD مخصص، بهدف تشغيل Virtual Machines و Containers ومشاريع شبكات أو سيرفرات بشكل دائم.
 
