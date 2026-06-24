@@ -1,7 +1,6 @@
 # WSL + Ubuntu + Docker + Containerlab Guide
 
 **Prepared by: izzaldeen mansour**  
-**إعداد: izzaldeen mansour**
 
 هذا الدليل عبارة عن كتالوج عملي لتجهيز بيئة تدريبية لبرمجة الشبكات باستخدام WSL وUbuntu وDocker وContainerlab.  
 الهدف أن يستطيع الطالب تشغيل بيئة Linux داخل Windows، تثبيت Docker، بناء شبكة افتراضية باستخدام Containerlab، ثم تجربة اتصال ورسائل بين `client1` و `client2` عبر `server`.
