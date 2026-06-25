@@ -1,2 +1,1 @@
-Prxomox
-ContainerLab
+ProxMox ContainerLab Tutorial
