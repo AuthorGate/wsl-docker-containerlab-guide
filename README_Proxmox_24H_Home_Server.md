@@ -1,4 +1,4 @@
-# Proxmox VE 24/7 Home Server Guide
+# Proxmox VE 24/7 Cloud Server Guide
 
 **Prepared by: izzaldeen mansour**  
 
